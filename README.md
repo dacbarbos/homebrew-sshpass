@@ -1,5 +1,6 @@
 # homebrew-sshpass
-brew tap dacbarbos/sshpass
+brew tap dacbarbos/sshpass  
+brew install sshpass
 
 ## alternatives
 1. use [keys](https://www.ssh.com/iam/ssh-key-management/)
